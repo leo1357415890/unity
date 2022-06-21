@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2484647965
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d7d3bd92723bc411622468e9971d18d3
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 22357172b8cea85847937e8f62d0c077
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Eff/AEffectTest/mat/ycty_djswpt_001_2.mat
+- Assets/Eff/AEffectTest/mat/ycty_djswpt_001_1.mat
+Dependencies:
+- J:/Workspace/UnityTest/UnityTestProject/Assets/StreamingAssets/test/test_tex.ab

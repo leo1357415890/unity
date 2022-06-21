@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 1174918846
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2ebdf2abd80ff11706d9f948d9adb741
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ae2cf77de671e115b4e55d2b65767202
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Eff/AEffectTest/fbx/quan_1.FBX
+- Assets/Eff/AEffectTest/fbx/1111.FBX
+- Assets/Eff/AEffectTest/fbx/yuanhuan_001_zhg_1.FBX
+- Assets/Eff/AEffectTest/fbx/ycty_tzdaojian_dao_1.FBX
+Dependencies: []

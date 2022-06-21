@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 1524522549
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: test_prefab.ab
+      Dependencies:
+        Dependency_0: test_fbx.ab
+        Dependency_1: test_mat.ab
+    Info_1:
+      Name: test_tex.ab
+      Dependencies: {}
+    Info_2:
+      Name: test_fbx.ab
+      Dependencies: {}
+    Info_3:
+      Name: test_mat.ab
+      Dependencies:
+        Dependency_0: test_tex.ab
+    Info_4:
+      Name: test_prefab1.ab
+      Dependencies: {}

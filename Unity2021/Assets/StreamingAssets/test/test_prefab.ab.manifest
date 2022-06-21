@@ -1,0 +1,38 @@
+ManifestFileVersion: 0
+CRC: 1358910943
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f6ab48788a4e3aa3e91105ab29d2d712
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9bbabb9bd81ff7c1feb96c864e44ae8a
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Eff/AEffectTest/prefab/dao_effect5.prefab
+- Assets/Eff/AEffectTest/prefab/quan.mesh
+- Assets/Eff/AEffectTest/prefab/dao_effect1.prefab
+- Assets/Eff/AEffectTest/prefab/dao_effect4.prefab
+- Assets/Eff/AEffectTest/prefab/dao_effect3.prefab
+- Assets/Eff/AEffectTest/prefab/dao_effect2.prefab
+Dependencies:
+- J:/Workspace/UnityTest/UnityTestProject/Assets/StreamingAssets/test/test_fbx.ab
+- J:/Workspace/UnityTest/UnityTestProject/Assets/StreamingAssets/test/test_mat.ab
